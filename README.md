@@ -61,6 +61,9 @@ I dream of spending a night stargazing under the open sky in places like **Austr
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
 <h3 align="left">Libraries and Frameworks</h3>
@@ -179,8 +182,8 @@ I dream of spending a night stargazing under the open sky in places like **Austr
 ###
 
 
-<img align="left" height="273" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZxbDd5NXNsYWxpMnc0ZGY4NmtxbWNwZ2F6YzM5cjk4Z2hycTd4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjV6G9UwkB190zbq/giphy.gif" />
-<img align="right" height="273" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGd0eWZuY2Yyb20xd2F2NG53aTdsemdnem1pOTZldjhkcXl2NW1nOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nWPLGmsjvdQ4g/giphy.gif" />
+<img align="left" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZxbDd5NXNsYWxpMnc0ZGY4NmtxbWNwZ2F6YzM5cjk4Z2hycTd4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjV6G9UwkB190zbq/giphy.gif" />
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGd0eWZuY2Yyb20xd2F2NG53aTdsemdnem1pOTZldjhkcXl2NW1nOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nWPLGmsjvdQ4g/giphy.gif" />
 
 ---
 
