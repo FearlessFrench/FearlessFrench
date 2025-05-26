@@ -38,7 +38,47 @@ I dream of spending a night stargazing under the open sky in places like **Austr
 
 ###
 
-<p align="left">• 🥇 Got promote to head of data science branch, faculty of science, chiang mai university. (February 2024)<br><br>• 🥉 2nd Runner up at Northern Thai to Central Thai Machine translation competition for SuperAI-North Season 4</p>
+
+<h3>🎯 100% Achievement Completion</h3>
+
+<ul>
+  <li>Assassin's Creed Unity</li>
+  <li>Battlefield V</li>
+  <li>Cookie Clicker</li>
+  <li>The Crew 2</li>
+  <li>The Elder Scrolls V: Skyrim</li>
+  <li>Mad Max</li>
+  <li>Metal Slug</li>
+  <li>Resident Evil 2</li>
+  <li>Rise of the Tomb Raider</li>
+  <li>Serious Sam 4</li>
+  <li>Shadow of the Tomb Raider</li>
+  <li>Tomb Raider</li>
+  <li>A Way Out</li>
+  <li>WWE 2K22</li>
+</ul>
+
+<h3>⚡ Near 100% Completion (≥ 80%)</h3>
+
+<ul>
+  <li>Total War: WARHAMMER II</li>
+  <li>Killing Floor 2</li>
+  <li>Assetto Corsa</li>
+  <li>Sniper Elite 4</li>
+  <li>Left 4 Dead 2</li>
+  <li>Red Dead Redemption 2</li>
+  <li>HELLDIVERS 2</li>
+  <li>Warhammer: Vermintide 2</li>
+  <li>Killing Floor</li>
+  <li>Metal Slug 3</li>
+  <li>Battlefield™ 2042</li>
+  <li>Aliens: Fireteam Elite</li>
+  <li>Dead Rising 3</li>
+  <li>Tom Clancy's Ghost Recon® Wildlands</li>
+  <li>Metal Slug X</li>
+  <li>Children of Morta</li>
+  <li>This War of Mine</li>
+</ul>
 
 ###
 
@@ -181,10 +221,4 @@ I dream of spending a night stargazing under the open sky in places like **Austr
 
 ###
 
-
-<img align="left" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnZxbDd5NXNsYWxpMnc0ZGY4NmtxbWNwZ2F6YzM5cjk4Z2hycTd4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjV6G9UwkB190zbq/giphy.gif" />
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGd0eWZuY2Yyb20xd2F2NG53aTdsemdnem1pOTZldjhkcXl2NW1nOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nWPLGmsjvdQ4g/giphy.gif" />
-
----
-
-🌟 <b>Thanks for visiting my profile!</b>
+<img align="left" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFiZnRhb2ExenZzM295bms2N2M4a3NkMWJ2NjNsOW9uaG1sazZlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jQQRWxSlW1tWvWigA9/giphy.gif" />
