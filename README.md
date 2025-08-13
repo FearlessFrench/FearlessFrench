@@ -1,84 +1,25 @@
-<h1 align="left">Hello there 👋!</h1>
+<h1 align="left">こんにちは👋！</h1>
 
 ###
 
-<p align="left"><b>My name is French, Christopher French.</b></p>
+<p align="left"><b>私の名前はフレンチです</b></p>
 
 ###
 
-<h2 align="left">🎼 About Me</h2>
+<h2 align="left">🎼 私について</h2>
 
 ###
 
-☄ **Hi! I'm Panutad Sirikul**, but most friends call me **Christopher French**.  
-They thought I was mixed-race, and the nickname "French" either comes from the Thai word _เฟ้น_ ("to choose") or from the popularity of the **French football team** the year I was born.  
-Fun fact — I was born at dawn on **Thailand’s Father’s Day**!
+私は**音楽理論**、**歴史**、そして**天文学**に深く没頭するのが大好きです。
 
-🎓 I’m passionate about **Data Science**, **Data Engineering**, and **Data Analysis**.  
-I specialize in **Python**, and I also work with tools like **R**, **Weka**, **MySQL**, **C++**, and **JavaScript**.  
-Being in this field drives me to keep learning and exploring new technologies every day.
+毎日**🎸ギター**と**🎹ピアノ**を弾いています。隣人は同意しないかもしれませんが、仕事や勉強の合間にリラックスする助けになっています。
 
-📖 I read mostly non-fiction on topics I love, like **music theory**, **world history**, and **astronomy**.
+私の夢は**曲**や、さらには**アルバム**を書くことで、いつか本当に意味のあるものを作ったり、素晴らしいバンドで演奏したりすることを望んでいます。
 
-🎸 I love playing the **guitar** — though I often forget which songs to play when someone (like that one Japanese tourist at Ang Kaew Reservoir!) stops to listen.
+✈旅行はあまりしませんが、行く時は都会を離れるのが好きです。
 
-🎹 Playing **piano** helps me relax and recharge... even if my neighbors might disagree. 😅
-
-🎵 One of my dreams is to write a **song** — or even a full **album** — that tells my story and how I see the world.  
-I’m committed to this goal, and one day I hope to create something truly meaningful or play in an amazing band.
-
-✈ I don’t travel often, but when I do, I love escaping the city.  
-I dream of spending a night stargazing under the open sky in places like **Australia**, **New Zealand**, or **Japan**, where I’ve met some of the kindest people.
 
 ---
-
-###
-
-<h2 align="left">🏅 Achievements</h2>
-
-###
-
-
-<h3>🎯 100% Achievement Completion</h3>
-
-<ul>
-  <li>Assassin's Creed Unity</li>
-  <li>Battlefield V</li>
-  <li>Cookie Clicker</li>
-  <li>The Crew 2</li>
-  <li>The Elder Scrolls V: Skyrim</li>
-  <li>Mad Max</li>
-  <li>Metal Slug</li>
-  <li>Resident Evil 2</li>
-  <li>Rise of the Tomb Raider</li>
-  <li>Serious Sam 4</li>
-  <li>Shadow of the Tomb Raider</li>
-  <li>Tomb Raider</li>
-  <li>A Way Out</li>
-  <li>WWE 2K22</li>
-</ul>
-
-<h3>⚡ Near 100% Completion (≥ 80%)</h3>
-
-<ul>
-  <li>Total War: WARHAMMER II</li>
-  <li>Killing Floor 2</li>
-  <li>Assetto Corsa</li>
-  <li>Sniper Elite 4</li>
-  <li>Left 4 Dead 2</li>
-  <li>Red Dead Redemption 2</li>
-  <li>HELLDIVERS 2</li>
-  <li>Warhammer: Vermintide 2</li>
-  <li>Killing Floor</li>
-  <li>Metal Slug 3</li>
-  <li>Battlefield™ 2042</li>
-  <li>Aliens: Fireteam Elite</li>
-  <li>Dead Rising 3</li>
-  <li>Tom Clancy's Ghost Recon® Wildlands</li>
-  <li>Metal Slug X</li>
-  <li>Children of Morta</li>
-  <li>This War of Mine</li>
-</ul>
 
 ###
 
